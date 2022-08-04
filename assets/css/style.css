@@ -1066,8 +1066,8 @@ Portfolio Area CSS
 }
 
 .single-portfolio-box:hover img {
-  -webkit-transform: rotate(15deg) scale(1.4);
-          transform: rotate(15deg) scale(1.4);
+  -webkit-transform: rotate(0deg) scale(1.4);
+          transform: rotate(0deg) scale(1.4);
 }
 
 .single-portfolio-box:hover .portfolio-content {
