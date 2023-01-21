@@ -655,7 +655,7 @@ Main Banner Area CSS
   position: relative;
   z-index: 1;
   background-color: #000000;
-  background-image: url(../img/cover.jpg);
+  background-image: url(../img/cover2.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1477,7 +1477,7 @@ Testimonial Area CSS
   position: relative;
   z-index: 1;
   background-color: #000000;
-  background-image: url(../img/main-banner1.jpg);
+  background-image: url(../img/cover.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
