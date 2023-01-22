@@ -90,7 +90,7 @@
 
     // Popup Video and Maps
     $('.popup-gmaps').magnificPopup({
-        disableOn: 320,
+        disableOn: 250,
         type: 'iframe',
         mainClass: 'mfp-fade',
         removalDelay: 160,
